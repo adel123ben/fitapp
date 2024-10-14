@@ -1,0 +1,30 @@
+{
+    "runningData": [
+      { "date": "2024-01-01", "startTime": "07:00", "endTime": "07:45", "distance": 5.2, "averageHeartRate": 145, "duration": 45 },
+      { "date": "2024-01-02", "startTime": "06:30", "endTime": "07:20", "distance": 6.1, "averageHeartRate": 150, "duration": 50 },
+      { "date": "2024-01-03", "startTime": "07:15", "endTime": "07:55", "distance": 4.8, "averageHeartRate": 142, "duration": 40 },
+      { "date": "2024-01-04", "startTime": "06:45", "endTime": "07:40", "distance": 7.3, "averageHeartRate": 148, "duration": 55 },
+      { "date": "2024-01-05", "startTime": "07:30", "endTime": "08:15", "distance": 5.9, "averageHeartRate": 146, "duration": 45 },
+      { "date": "2024-01-06", "startTime": "07:00", "endTime": "07:50", "distance": 6.5, "averageHeartRate": 147, "duration": 50 },
+      { "date": "2024-01-07", "startTime": "06:30", "endTime": "07:25", "distance": 5.7, "averageHeartRate": 144, "duration": 55 }
+    ],
+    "heartRateData": [
+      { "date": "2024-01-01", "time": "00:00", "rate": 62 },
+      { "date": "2024-01-01", "time": "00:30", "rate": 60 },
+      { "date": "2024-01-01", "time": "01:00", "rate": 63 },
+      { "date": "2024-01-01", "time": "01:30", "rate": 61 },
+      { "date": "2024-01-01", "time": "02:00", "rate": 60 },
+      { "date": "2024-01-01", "time": "02:30", "rate": 62 }, 
+      { "date": "2024-01-01", "time": "03:00", "rate": 61 },
+      { "date": "2024-01-01", "time": "03:30", "rate": 59 }
+    ],
+    "stepsData": [
+      { "date": "2024-01-01", "steps": 10000 },
+      { "date": "2024-01-02", "steps": 12000 },
+      { "date": "2024-01-03", "steps": 8000 },
+      { "date": "2024-01-04", "steps": 15000 },
+      { "date": "2024-01-05", "steps": 11000 },
+      { "date": "2024-01-06", "steps": 13000 },
+      { "date": "2024-01-07", "steps": 9000 }
+    ]
+  }
